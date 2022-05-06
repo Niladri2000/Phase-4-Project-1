@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+</head>
+<body>
+    <!--Header-->
+    <div class="card border-success text-center">
+       
+        
+        <div class="card-header bg-transperent border-danger">
+            <div class="media-object">
+                <div class="media-object-section">
+                    
+                    <img src="image/food1.jpg" style="width: 500px;">
+                     
+                    <div class="media-object-section">
+                        <Center><h1>NEIL RESTAURANT</h1></Center> 
+                       <center><p>good food good life</p></center> 
+                    </div>
+                    
+                
+                </div>
+            </div>
+        </div>
+    </div>
+    <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+        <a href="#" class="navbar-brand">NEIL FOODS</a>
+        <ul class="navbar-nav"> 
+            <li class="nav-item">
+                <a href="#" class="nav-link">Home</a>
+            </li>
+            <li class="nav-item">
+                <a href="#" class="nav-link">Aboutus</a>
+            </li>
+            <li class="nav-item">
+                <a href="#" class="nav-link dropdown-toggle" id="mydropdown" data-toggle="dropdown">Services</a>
+                <div class="dropdown-menu" area-labelledby="mydropdown">
+                    <a href="#" class="dropdown-item">HOME DELIVERY</a>
+                    <a href="#" class="dropdown-item">PARCEL</a>
+                   
+
+                </div>
+            </li>
+
+            <li class="nav-item">
+                 <a href="contact.html" class="nav-link">Contact Us</a>
+            </li>
+        </ul>
+    </nav>
+    
+     
+         <div class="media-object">
+        
+               <div class="media-object-section">
+            
+               
+                <Center><img src="image/food.png" style="width: 300px;"></Center>
+                    <div class="media-object-section">
+                       <center><h4> FAST FOODS </h4></center> 
+                        <center><p>FLAT 50% OFF on your first order</p></center>
+                    </div>
+                </div>
+            </div>
+         </div>
+     
+        <div class="media-object">
+        
+           <div class="media-object-section">
+         
+            <h4>  BEST SELLERS ITEMS </h4>  
+                 
+              <img src="image/pizza.jfif" style="width: 100px;">
+              <h4> pizza  </h4> <p>Rs:200 10%off</p>
+               <img src="image/milkshake.jfif" style="width: 100px;">
+               <h4> choclate milkshake </h4> <p>Rs:100 20%off</p>
+               <img src="image/burger.jpg" style="width: 100px;">
+               <h4> burger </h4>  <p>Rs:150 15%off</p>
+         
+            </div>
+       
+    
+</div>
+</div>
+
+
+    <!--Footer-->
+
+    <div class="card-footer bg-transperent border-info">
+      <left> @copyrightsneil </left>
+      <right><i class="fa fa-phone"></i> contactno:7883646163</i></right>
+       <right> <i class="fa fa-home"></i>address:westbengal</right>
+    </div>
+    
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-fQybjgWLrvvRgtW6bFlB7jaZrFsaBXjsOMm/tB9LTS58ONXgqbR9W8oWht/amnpF" crossorigin="anonymous"></script>
+
+</body>
+</html>
